@@ -1,2 +1,4 @@
 # Git-Github-Demo
-Demo github repo for learning 
+This is my first github repository
+<br>
+Author - Ritik
